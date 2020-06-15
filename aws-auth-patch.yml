@@ -21,5 +21,5 @@ metadata:
   selfLink: /api/v1/namespaces/kube-system/configmaps/aws-auth
   #uid: 90e719e0-e32a-404b-8b72-a2a14ee6d3b7
 
-  uid: 6bd3c699-64e5-4eb4-af4f-f6bdf94cd503
+  uid: ec3697d7-cf49-4b8a-a98f-498d98eeed51
 
